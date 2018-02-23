@@ -8,6 +8,7 @@ This is a python 3 class to control [EA](http://www.elektroautomatik.de/) power 
 - [EA-PS 2084-03B](http://shop.elektroautomatik.de/shop/shop__LABORNETZGER%C3%84T%200...84V0...3A100W__1::4::14::42::a39200116__en_US)
 - [EA-PS 2084-05B](http://shop.elektroautomatik.de/shop/shop__LABORNETZGER%C3%84T%200...84V0...5A160W__1::4::14::42::a39200117__en_US)
 - [EA-PS 2084-10B](http://shop.elektroautomatik.de/shop/shop__LABORNETZGER%C3%84T%200..84V0..10A320W__1::4::14::42::a39200118__en_US)
+- EA-PS 2342-10B
 
 So far, it has only been tested with the EA-PS 2042-20B. Running ps2000.py by itself will show the capabilities. Include the class in your own scripts using `import ps2000`.
 
